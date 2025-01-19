@@ -25,3 +25,6 @@ O desafio consistia em desenvolver uma aplicação web que permitisse aos usuár
     *   **Validação de Entradas:** Verificação de campos vazios e outros critérios.
     *   **`Math.random()` e `Math.floor()`:** Geração de números aleatórios para o sorteio.
     * `DOM` : Manipulação dos elementos HTML
+ 
+ ## Acesse o link e experimente
+ *  https://amigo-secreto-omega-seven.vercel.app/
